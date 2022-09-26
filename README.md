@@ -8,7 +8,7 @@ Hi! My name is Matheus, Welcome to my profile!! 😎😊
 
 <div>
   <a href="https://github.com/matheusaraujocf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusaraujocf&show_icons=true&theme=merko&incluse_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheuz-Carvalho&show_icons=true&theme=merko&incluse_all_commits=true&count_private=true"/>
  
 </div>
   <div style="display: inline_block"><br>

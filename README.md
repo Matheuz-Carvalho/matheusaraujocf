@@ -38,15 +38,15 @@ Hi! My name is Matheus, Welcome to my profile!! 😊
   </div>
   
   # Sobre mim
- 📚 Estou cursando ADS na faculdade São Paulo Tech School   <br>
- 🎶 Completamente apaixonado por musica e jogos 🕹 <br>
+ 📚 Sou formado em ADS pela faculdade São Paulo Tech School   <br>
+ 🎶 Completamente apaixonado por jogos e tecnologia 🕹 <br>
  🛫 Sonho em conhecer e morar nos países nordicos 
   
   <br>
   
   ## About me 
   📚 I'm studying ADS at São Paulo Tech School  <br>
- 🎶 Completely in love with music and games 🕹 <br>
+ 🎶 Completely in love with games anf technology🕹 <br>
  🛫 Dream of knowing and living in the Nordic countries
 
    <!--

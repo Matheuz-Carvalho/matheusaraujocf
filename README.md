@@ -40,14 +40,12 @@ Hi! My name is Matheus, Welcome to my profile!! 😊
   # Sobre mim
  📚 Sou formado em ADS pela faculdade São Paulo Tech School   <br>
  🎶 Completamente apaixonado por jogos e tecnologia 🕹 <br>
- 🛫 Sonho em conhecer e morar nos países nordicos 
   
   <br>
   
   ## About me 
   📚 I'm studying ADS at São Paulo Tech School  <br>
  🎶 Completely in love with games anf technology🕹 <br>
- 🛫 Dream of knowing and living in the Nordic countries
 
    <!--
     ICON JAVA

@@ -5,11 +5,11 @@
 👋 Hello, I'm Matheus Araujo Carvalho, graduated in Systems Analysis and Development. I have a great interest in back-end development, with a focus on Java and Spring Boot, and I am always looking to improve my skills and knowledge. I also have some knowledge in front-end development, which helps me understand the complete application. 
 
 
-
+ <!--
 <div>
   <a href="https://github.com/Matheuz-Carvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheuz-Carvalho&show_icons=true&theme=merko&incluse_all_commits=true&count_private=true"/>
-</div>
+</div>-->
 
   <div style="display: inline_block"><br>
     <img align="center" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">

@@ -1,8 +1,8 @@
 <!--
   TOKEN : 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
 -->
-### 👋 Olá, sou Matheus Araujo Carvalho, formado em Análise e Desenvolvimento de Sistemas. Tenho um grande interesse no desenvolvimento back-end, com foco em Java e Spring Boot, e busco sempre aprimorar minhas habilidades por meio de projetos práticos e aprendizado contínuo. <br>
-👋 Hi, I'm Matheus Araujo Carvalho, a graduate in Systems Analysis and Development. I have a strong interest in back-end development, with a focus on Java and Spring Boot, and I am always looking to improve my skills through practical projects and continuous learning. 
+### 👋 Olá, sou Matheus Araujo Carvalho, formado em Análise e Desenvolvimento de Sistemas. Tenho um grande interesse no desenvolvimento back-end, com foco em Java e Spring Boot, e estou sempre buscando aprimorar minhas habilidades e conhecimento. Também tenho algum conhecimento em desenvolvimento front-end, o que me ajuda a entender a aplicação como um todo. <br>
+👋 Hello, I'm Matheus Araujo Carvalho, graduated in Systems Analysis and Development. I have a great interest in back-end development, with a focus on Java and Spring Boot, and I am always looking to improve my skills and knowledge. I also have some knowledge in front-end development, which helps me understand the complete application. 
 
 
 
